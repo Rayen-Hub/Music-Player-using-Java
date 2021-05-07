@@ -5,8 +5,9 @@ FEATURES
 * Simple & Effective GUI output
 * This is a Maven project
 
-SPECIFICATION
+SPECIFICATIONS
 * Language: Java
-* Java Technology: Swings
+* Technology: Swings
+* Tool: Eclipse or NetBeans
 
 

@@ -1,4 +1,4 @@
-# Music-Player-using-Java
+# Music-Player-using-Java-Swings
 FEATURES
 * Implements all the basic operations for playback control like play, pause, stop, previous, next and volume control
 * Can add only .mp3 files

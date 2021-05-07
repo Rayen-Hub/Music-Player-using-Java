@@ -8,6 +8,6 @@ FEATURES
 SPECIFICATIONS
 * Language: Java
 * Technology: Swings
-* Tool: Eclipse or NetBeans
+* Tools: Eclipse or NetBeans
 
 
